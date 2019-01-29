@@ -1,0 +1,22 @@
+{
+  "name": "sprint-0-sq19-gannotsk21",
+  "version": "1.0.0",
+  "description": "sprint-0-sq19-gannotsk21 created by GitHub Classroom Sprint 0 is happening like right nowwww",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-gannotsk21.git"
+  },
+  "author": "Polina Gannotskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-gannotsk21/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-gannotsk21#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
