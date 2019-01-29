@@ -4,7 +4,8 @@
   "description": "sprint-0-sq19-gannotsk21 created by GitHub Classroom Sprint 0 is happening like right nowwww",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "start": "node server.js",
+    "test": "jest --coverage --forceExit"
   },
   "repository": {
     "type": "git",
