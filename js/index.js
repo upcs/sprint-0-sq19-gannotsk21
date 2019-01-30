@@ -1,7 +1,6 @@
-//this will use your function to write information into the index.html
-a = 2;//prompt('Enter the first number');
-b = 2;//prompt('Enter the second number');
-function sum() {
-	document.getElementById("id").innerHTML = addition(a,b);
-}
-sum();
+/* Author: Polina Gannotskaya
+This file contains the function that writes information into the index.html*/
+a = 2;
+b = 2;
+
+document.getElementById("id").innerHTML = "adding " + a + " and " + b + " results in " + addition(a, b);

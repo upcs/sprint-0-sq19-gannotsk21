@@ -1,3 +1,6 @@
+/*I got help for this section from tutorialspoint.com
+http://www.tutorialspoint.com/nodejs/nodejs_web_module.htm */
+
 var http = require('http');
 var fs = require('fs');
 var url = require('url');
